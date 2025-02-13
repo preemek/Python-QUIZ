@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Jaki jest największy ocean na Ziemi?",
+    "options": ["Atlantycki", "Spokojny", "Arktyczny", "Indyjski"],
+    "answer": "Spokojny"
+  },
+  {
+    "question": "Ile planet znajduje się w Układzie Słonecznym?",
+    "options": ["7", "8", "9", "10"],
+    "answer": "8"
+  },
+  {
+    "question": "Jaką jednostką mierzymy prąd elektryczny?",
+    "options": ["Wat", "Volt", "Amper", "Ohm"],
+    "answer": "Amper"
+  },
+  {
+    "question": "Jaka jest stolica Francji?",
+    "options": ["Londyn", "Berlin", "Paryż", "Rzym"],
+    "answer": "Paryż"
+  },
+  {
+    "question": "Ile kontynentów jest na Ziemi?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "7"
+  },
+  {
+    "question": "Kto namalował 'Mona Lisę'?",
+    "options": [
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Vincent van Gogh",
+      "Rembrandt"
+    ],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "Który organ w ciele człowieka odpowiada za pompowanie krwi?",
+    "options": ["Mózg", "Płuca", "Serce", "Wątroba"],
+    "answer": "Serce"
+  },
+  {
+    "question": "Która planeta jest najbliżej Słońca?",
+    "options": ["Mars", "Wenus", "Ziemia", "Merkury"],
+    "answer": "Merkury"
+  },
+  {
+    "question": "Ile wynosi liczba π (pi) zaokrąglona do dwóch miejsc po przecinku?",
+    "options": ["3.12", "3.14", "3.16", "3.18"],
+    "answer": "3.14"
+  },
+  {
+    "question": "Który kontynent ma najwięcej krajów?",
+    "options": ["Europa", "Afryka", "Azja", "Ameryka Południowa"],
+    "answer": "Afryka"
+  }
+]

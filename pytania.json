@@ -1,0 +1,68 @@
+[
+    {
+        "category": "Historia",
+        "question": "W którym roku rozpoczęła się II wojna światowa?",
+        "options": {
+            "A": "1939",
+            "B": "1914",
+            "C": "1945",
+            "D": "1920"
+        },
+        "correct": "A"
+    },
+    {
+        "category": "Historia",
+        "question": "Kto był pierwszym królem Polski?",
+        "options": {
+            "A": "Kazimierz Wielki",
+            "B": "Bolesław Chrobry",
+            "C": "Mieszko I",
+            "D": "Jan III Sobieski"
+        },
+        "correct": "B"
+    },
+    {
+        "category": "Nauka",
+        "question": "Jaki jest symbol chemiczny złota?",
+        "options": {
+            "A": "Ag",
+            "B": "Au",
+            "C": "Pb",
+            "D": "Fe"
+        },
+        "correct": "B"
+    },
+    {
+        "category": "Nauka",
+        "question": "Która planeta jest największa w Układzie Słonecznym?",
+        "options": {
+            "A": "Mars",
+            "B": "Wenus",
+            "C": "Saturn",
+            "D": "Jowisz"
+        },
+        "correct": "D"
+    },
+    {
+        "category": "Sport",
+        "question": "Ile zawodników liczy drużyna piłkarska na boisku?",
+        "options": {
+            "A": "9",
+            "B": "10",
+            "C": "11",
+            "D": "12"
+        },
+        "correct": "C"
+    },
+    {
+        "category": "Sport",
+        "question": "Który sport uprawiał Michael Jordan?",
+        "options": {
+            "A": "Koszykówka",
+            "B": "Piłka nożna",
+            "C": "Tenis",
+            "D": "Formuła 1"
+        },
+        "correct": "A"
+    }
+]

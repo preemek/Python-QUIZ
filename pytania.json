@@ -1,0 +1,35 @@
+[
+    {
+        "kategoria": "Matematyka",
+        "pytanie": "Ile to 2 + 2 * 2?",
+        "odpowiedzi": {
+            "A": "8",
+            "B": "4",
+            "C": "6",
+            "D": "10"
+        },
+        "poprawna_odpowiedz": "C"
+    },
+    {
+        "kategoria": "Historia",
+        "pytanie": "W którym roku rozpoczęła się II wojna światowa?",
+        "odpowiedzi": {
+            "A": "1914",
+            "B": "1939",
+            "C": "1945",
+            "D": "1812"
+        },
+        "poprawna_odpowiedz": "B"
+    },
+    {
+        "kategoria": "Geografia",
+        "pytanie": "Gdzie znajduje sie Brazylia?",
+        "odpowiedzi": {
+            "A": "Ameryka Południowa",
+            "B": "Ameryka Północna",
+            "C": "Afryka",
+            "D": "Azja"
+        },
+        "poprawna_odpowiedz": "A"
+    }
+]

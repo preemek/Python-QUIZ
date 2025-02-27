@@ -54,6 +54,3 @@ class QuizGUI:
         ttk.Label(self.root,text=f"You have scored {self.Quiz.get_score()}",anchor="center").pack(side="top",fill="both",expand=True)
         ttk.Button(text="close",command=self.root.destroy).pack(side="top",fill="x",expand=True,padx=100,pady=50)
 
-r=tk.Tk()
-a=QuizGUI(r)
-r.mainloop()

@@ -2,6 +2,6 @@
 "Answers": ["chockolate", "ice cream", "smoothies", "wafels"], 
 "Correct_Answer": "ice cream"}, 
 
-{"Question": "What does she like?", 
-"Answers": ["chockolate", "ice cream", "smoothies", "wafels"], 
-"Correct_Answer": "ice cream"}]
+{"Question": "What does mark like?", 
+"Answers": ["apples", "pears", "grapes", "carrots"], 
+"Correct_Answer": "apples"}]
